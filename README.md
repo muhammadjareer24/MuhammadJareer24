@@ -7,8 +7,8 @@
 
 <div align="center">
     <p align="center"> 
-        <img src="https://komarev.com/ghpvc/?username=muhammadjareer24&label=Profile%20views" alt="count" />
-        <a href="https://github.com/muhammadjareer24"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+        <img src="https://komarev.com/ghpvc/?username=MuhammadJareer24&label=Profile%20views" alt="count" />
+        <a href="https://github.com/MuhammadJareer24"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
 <!--         <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a> -->
 <!--         <a href="https://github.com/muhammadjareer24/graphs/contributors"><img src="https://img.shields.io/github/contributors/muhammadjareer24?color=blue"></a> -->
 <!--         <a href="https://github.com/muhammadjareer24/stargazers"><img src="https://img.shields.io/github/stars/muhammadjareer24.svg?logo=github"></a> -->
