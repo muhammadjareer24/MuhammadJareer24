@@ -47,7 +47,7 @@
 class MuhammadJareer {
   constructor() {
     this.name = "Muhammad Jareer";
-    this.username = "MuhammadJareer24";
+    this.username = "muhammadjareer24";
     this.skills = {
       frontend: ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Tailwind CSS"],
       tools: ["Git", "GitHub", "Linux"],
