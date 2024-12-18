@@ -17,6 +17,8 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/muhammadjareer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+    <a href="https://jareer-portfolio.vercel.app/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Portfolio" height="30" width="40" />
+ </a>
 <!-- <a href="https://fb.com/your-facebook-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
 <a href="https://twitter.com/your-twitter-handle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 <a href="https://instagram.com/your-instagram-handle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
@@ -33,13 +35,13 @@
 
 - 🏫 I’m a Computer Science student at [Karachi University.](https://uok.edu.pk/)
 
-- 🌱 I’m currently learning **Node JS**
+- 💬 Ask me about **JavaScript, TypeScript, React JS**
 
+- 👨‍💻 Check out my projects at [My Portfolio](https://jareer-portfolio.vercel.app/)
+  
 - 🤝 Open to collaborating on web and app development projects!
 
-- 👨‍💻 Check out my projects at [My Portfolio]( )
-
-- 💬 Ask me about **JavaScript, TypeScript, React JS**
+- 🌱 I’m currently learning **Databases (NoSQL & SQL)**
 
 - ⚡ Fun fact: I can learn fast if you teach me slowly!
 
@@ -50,7 +52,8 @@ class MuhammadJareer {
     this.username = "muhammadjareer24";
     this.skills = {
       frontend: ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Tailwind CSS"],
-      tools: ["Git", "GitHub", "Linux"],
+      backend: ["Node", "Express", "MongoDB"]
+      tools: ["Git", "GitHub", "Vercel", "Netlify"]
     };
   }
   introduction() {
@@ -74,7 +77,7 @@ class MuhammadJareer {
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AC"><img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?logo=c&logoColor=white"></a>
-<!--       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a> -->
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
       
     
