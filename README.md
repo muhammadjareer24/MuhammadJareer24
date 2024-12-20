@@ -31,7 +31,9 @@
 
 ## 🙋‍♂️ About Me
 
-<p>I'm a Computer Science student at Karachi University with a strong interest in web and app development. I have hands-on experience with JavaScript, React, and TypeScript, and I’m passionate about building efficient and creative web applications. I also have skills in HTML, CSS, Tailwind, and Linux, and I'm always exploring new technologies and trends to expand my knowledge. When I'm not working on projects, I enjoy contributing to open-source and sharing ideas with the developer community.</p>
+<p>I am a Computer Science student at Karachi University with a strong passion for web and app development. I enjoy creating responsive, user-centric, and efficient web applications, focusing on both design and functionality.
+
+With hands-on experience in modern web technologies, I constantly explore new frameworks, tools, and trends to enhance my development skills.</p>
 
 - 🏫 I’m a Computer Science student at [Karachi University.](https://uok.edu.pk/)
 
