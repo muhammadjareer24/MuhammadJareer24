@@ -2,13 +2,12 @@
 <h2 align="center">A Frontend Developer</h2>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=28&duration=5000&pause=1000&color=ff6600&center=true&width=1200&height=60&lines=Welcome+to+my+GitHub+Profile!+You're+Amazing.;I+started+my+journey+with+%22Hello+World!%22;I+have+a+passion+for+coding+and+web+development.;Currently+learning+new+technologies+and+growing+my+skills.;Open+to+collaborating+on+exciting+projects.;Let's+connect+and+build+something+great+together!" alt="Typing SVG" /></a>
+<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=28&duration=5000&pause=1000&color=ff6600&center=true&width=1200&height=60&lines=Welcome+to+my+GitHub+Profile!+You're+Amazing.;I+started+my+journey+with+%22Hello+World!%22;I+have+a+passion+for+coding+and+web+development.;Currently+learning+new+technologies+and+growing+my+skills.;Open+to+collaborating+on+exciting+projects.;Let's+connect+and+build+something+great+together!" alt="Typing SVG" /></a> -->
 </p>
 
 <div align="center">
     <p align="center"> 
-        <img src="https://komarev.com/ghpvc/?username=muhammadjareer24&label=Profile%20views" alt="count" />
-        <a href="https://github.com/muhammadjareer24"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+<!--         <img src="https://komarev.com/ghpvc/?username=muhammadjareer24&label=Profile%20views" alt="count" /> -->
 <!--         <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a> -->
 <!--         <a href="https://github.com/muhammadjareer24/graphs/contributors"><img src="https://img.shields.io/github/contributors/muhammadjareer24?color=blue"></a> -->
 <!--         <a href="https://github.com/muhammadjareer24/stargazers"><img src="https://img.shields.io/github/stars/muhammadjareer24.svg?logo=github"></a> -->
@@ -17,8 +16,10 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/muhammadjareer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-    <a href="https://jareer-portfolio.vercel.app/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Portfolio" height="30" width="40" />
- </a>
+<a href="https://jareer-portfolio.vercel.app/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Portfolio" height="30" width="40" style="filter: invert(1);">
+</a>
+
 <!-- <a href="https://fb.com/your-facebook-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
 <a href="https://twitter.com/your-twitter-handle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 <a href="https://instagram.com/your-instagram-handle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
